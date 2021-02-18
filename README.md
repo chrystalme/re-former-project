@@ -27,6 +27,7 @@
    - Change to the parent directory of the project using 
     ``` cd re-former-project ```
    - run ```bundle install ``` to install dependencies
+   - use ``` yarn install ``` to get Javascript dependencies
    - use ``` rails c ``` to go to the console
    - use ``` rails s ``` to run the rails server
 

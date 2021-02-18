@@ -1,13 +1,10 @@
 <%= form_with model: @user do |form| %>
   <%= form.text_field :username, placeholder: "Username" %><br />
-  <%= user.errors.full_messages_for(:username).first %><br /> 
 
 
   <%= form.email_field :email, placeholder: "Email@example.com" %><br />
-  <%= user.errors.full_messages_for(:email_address).first %><br /> 
 
   <%= form.password_field :password, placeholder: "Password" %><br />
-  <%= user.errors.full_messages_for(:password).first %><br /> 
 
   <%= form.submit %>
 <% end %>
