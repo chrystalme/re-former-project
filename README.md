@@ -21,11 +21,11 @@
 
   Set up project using the above specifications
    #### For HTTPS
-   - use ``` git clone https://github.com/Ralph-1/Micro-reddit.git ``` to clone the repository
+   - use ``` https://github.com/chrystalme/re-former-project.git ``` to clone the repository
    #### For SSH
-   - use ``` git clone git@github.com:Ralph-1/Micro-reddit.git ``` to clone the repository
+   - use ``` git@github.com:chrystalme/re-former-project.git ``` to clone the repository
    - Change to the parent directory of the project using 
-    ``` cd micro-reddit ```
+    ``` cd re-former-project ```
    - run ```bundle install ``` to install dependencies
    - use ``` rails c ``` to go to the console
    - use ``` rails s ``` to run the rails server
@@ -48,7 +48,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-<!-- Feel free to check the [issues page](https://github.com/Ralph-1/Micro-reddit/issues). -->
+Feel free to check the [issues page](https://github.com/chrystalme/re-former-project/issues).
 
 ## Show your support
 
